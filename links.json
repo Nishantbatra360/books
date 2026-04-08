@@ -1,0 +1,95 @@
+{
+  "book": {
+    "title": "Cursed: Love That Lingers",
+    "author": "Nishant Batra",
+    "description": "Some loves arrive too early. Others arrive too late. And a few change us forever. In the warmth of Portugal, a life unfolds through moments of connection, loss, and the fragile courage to keep going. Quietly intimate and deeply reflective, this story explores the echoes people leave behind, the weight of memory, and the small, stubborn hope that remains.",
+    "coverImageUrl": "./assets/book-cover-placeholder.png"
+  },
+  "amazonLinks": [
+    {
+      "country": "United States",
+      "code": "US",
+      "url": "https://www.amazon.com/dp/B0GWFH3SQY"
+    },
+    {
+      "country": "India",
+      "code": "IN",
+      "url": "https://www.amazon.in/dp/B0D9DGQHTW"
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "url": "https://www.amazon.ca/dp/B0GWFH3SQY"
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "url": "https://www.amazon.co.uk/dp/B0GWFH3SQY"
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "url": "https://www.amazon.de/dp/B0GWFH3SQY"
+    },
+    {
+      "country": "Japan",
+      "code": "JP",
+      "url": "https://www.amazon.co.jp/dp/B0GWFH3SQY"
+    },
+    {
+      "country": "France",
+      "code": "FR",
+      "url": "https://www.amazon.fr/dp/B0GWFH3SQY"
+    },
+    {
+      "country": "Italy",
+      "code": "IT",
+      "url": "https://www.amazon.it/dp/B0GWFH3SQY"
+    },
+    {
+      "country": "Spain",
+      "code": "ES",
+      "url": "https://www.amazon.es/dp/B0GWFH3SQY"
+    },
+    {
+      "country": "Brazil",
+      "code": "BR",
+      "url": "https://www.amazon.com.br/dp/B0D9DGQHTW"
+    },
+    {
+      "country": "Australia",
+      "code": "AU",
+      "url": "https://www.amazon.com.au/dp/B0GWFH3SQY"
+    },
+    {
+      "country": "Mexico",
+      "code": "MX",
+      "url": "https://www.amazon.com.mx/dp/B0D9DGQHTW"
+    },
+    {
+      "country": "Netherlands",
+      "code": "NL",
+      "url": "https://www.amazon.nl/dp/B0GWFH3SQY"
+    },
+    {
+      "country": "Poland",
+      "code": "PL",
+      "url": "https://www.amazon.pl/dp/B0GWFH3SQY"
+    },
+    {
+      "country": "Sweden",
+      "code": "SE",
+      "url": "https://www.amazon.se/dp/B0GWFH3SQY"
+    },
+    {
+      "country": "Belgium",
+      "code": "BE",
+      "url": "https://www.amazon.com.be/dp/B0GWFH3SQY"
+    },
+    {
+      "country": "Ireland",
+      "code": "IE",
+      "url": "https://www.amazon.co.uk/dp/B0GWFH3SQY"
+    }
+  ]
+}
