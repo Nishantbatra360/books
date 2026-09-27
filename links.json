@@ -1,95 +1,95 @@
 {
   "book": {
-    "title": "Cursed: Love That Lingers",
+    "title": "Me After You",
     "author": "Nishant Batra",
-    "description": "Some loves arrive too early. Others arrive too late. And a few change us forever. In the warmth of Portugal, a life unfolds through moments of connection, loss, and the fragile courage to keep going. Quietly intimate and deeply reflective, this story explores the echoes people leave behind, the weight of memory, and the small, stubborn hope that remains.",
+    "description": "He has spent more than a decade photographing strangers in Lisbon because the camera lets him keep the world at the length of an arm.\n\nHe knows the exact moment to click: when the light is generous, when the subject has forgotten to guard their face, when the story they are telling themselves looks almost true.\n\nHe has never turned the lens around.\n\nHe does not do portraits. He does not do permanence. He has learned to be necessary to no one, to leave before the leaving is noticed, to make his absence feel like a gift rather than a wound.\n\nThen she sees him truly.\n\nNot the performance. Not the charm he can switch on and off. Something else. Something he did not know was still there.\n\nAnd for the first time in years, the city starts to feel less like an escape and more like a place he might belong.\n\nHe is not sure which frightens him more: that she might leave, or that he might not be capable of her.",
     "coverImageUrl": "./assets/book-cover-placeholder.png"
   },
   "amazonLinks": [
     {
       "country": "United States",
       "code": "US",
-      "url": "https://www.amazon.com/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.com/dp/B0HL3VFC1S"
     },
     {
       "country": "India",
       "code": "IN",
-      "url": "https://www.amazon.in/dp/B0D9DGQHTW"
+      "url": "https://www.amazon.in/dp/B0HL5WLDGN"
     },
     {
       "country": "Canada",
       "code": "CA",
-      "url": "https://www.amazon.ca/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.ca/dp/B0HL3VFC1S"
     },
     {
       "country": "United Kingdom",
       "code": "GB",
-      "url": "https://www.amazon.co.uk/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.co.uk/dp/B0HL3VFC1S"
     },
     {
       "country": "Germany",
       "code": "DE",
-      "url": "https://www.amazon.de/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.de/dp/B0HL3VFC1S"
     },
     {
       "country": "Japan",
       "code": "JP",
-      "url": "https://www.amazon.co.jp/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.co.jp/dp/B0HL3VFC1S"
     },
     {
       "country": "France",
       "code": "FR",
-      "url": "https://www.amazon.fr/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.fr/dp/B0HL3VFC1S"
     },
     {
       "country": "Italy",
       "code": "IT",
-      "url": "https://www.amazon.it/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.it/dp/B0HL3VFC1S"
     },
     {
       "country": "Spain",
       "code": "ES",
-      "url": "https://www.amazon.es/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.es/dp/B0HL3VFC1S"
     },
     {
       "country": "Brazil",
       "code": "BR",
-      "url": "https://www.amazon.com.br/dp/B0D9DGQHTW"
+      "url": "https://www.amazon.com.br/dp/B0HL5WLDGN"
     },
     {
       "country": "Australia",
       "code": "AU",
-      "url": "https://www.amazon.com.au/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.com.au/dp/B0HL3VFC1S"
     },
     {
       "country": "Mexico",
       "code": "MX",
-      "url": "https://www.amazon.com.mx/dp/B0D9DGQHTW"
+      "url": "https://www.amazon.com.mx/dp/B0HL5WLDGN"
     },
     {
       "country": "Netherlands",
       "code": "NL",
-      "url": "https://www.amazon.nl/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.nl/dp/B0HL3VFC1S"
     },
     {
       "country": "Poland",
       "code": "PL",
-      "url": "https://www.amazon.pl/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.pl/dp/B0HL3VFC1S"
     },
     {
       "country": "Sweden",
       "code": "SE",
-      "url": "https://www.amazon.se/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.se/dp/B0HL3VFC1S"
     },
     {
       "country": "Belgium",
       "code": "BE",
-      "url": "https://www.amazon.com.be/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.com.be/dp/B0HL3VFC1S"
     },
     {
       "country": "Ireland",
       "code": "IE",
-      "url": "https://www.amazon.co.uk/dp/B0GWFH3SQY"
+      "url": "https://www.amazon.co.uk/dp/B0HL3VFC1S"
     }
   ]
 }
